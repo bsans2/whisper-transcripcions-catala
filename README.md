@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34551097/README.md)
 # Whisper · Transcripció d'àudios en català
 
 Programa per a **Windows** amb finestra gràfica per transcriure àudios a text amb [Whisper](https://github.com/openai/whisper) (OpenAI), sense haver d'utilitzar la consola.
